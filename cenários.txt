@@ -1,0 +1,30 @@
+Os presentes cenários serão avaliados parte com o simulador, parte com o celular em mão e serão comparados com os mesmos em sistema android.
+
+Definir uma alarme
+Adicionar evento no calendário
+    notificação??
+Preço Tijolo baiano x 70
+Instalar software
+Mensagem (telegram,...)
+Adicionar contato e ligar
+Ligo e depois adiciona contato
+Clima
+Relógio em outros fusos
+Altera configuração (brilho, volume)
+Conectar no wifi
+Conectar caixinha de Som
+Foto
+Editar imagem
+Compartilho uma foto via mensagem
+Alterar papel de parede (com imagem própria)
+Notificações
+Configuração de privacidade
+Tempo de uso
+Organizar desktop/ favoritar app
+Comando de voz
+Manipular arquivos (pastas...)
+Desbloquear (senha??)
+Adicionar notas
+Adicionar todo
+Manipular arquivos (fotos, vídeos, ....)
+

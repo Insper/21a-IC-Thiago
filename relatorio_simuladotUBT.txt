@@ -1,0 +1,15 @@
+Para baixar o simulador de UBT em Arch Linux (sistema operacional que eu uso) foi preciso entrar na AUR (Arch user repository) e baixar o programa utqemu-git;
+
+Com o programa baixado, para rodar o simulador é preciso usar o comando "utq start" no terminal;
+
+Um simulador de UBT será aberto e rodará com algumas limitações. Porém, é o suficiente para conseguir fazer alguns testes iniciais;
+
+Dada as limitações do simulador, eguindo o usability checklist do artigo "A Usability CHecklist for the Usability Evaluation of Mobile Phone User Interface", consegue-se avaliar os seguintes pontos:
+- Previsibilidade;
+- Princípio Estrutural;
+- Consistência;
+- Reconhecibilidade;
+- Visibilidade;
+- Feedback;
+- Indicação de Erro;
+- Costumizabilidade;

@@ -1,0 +1,12 @@
+Discar:
+  barra lateral -> Phone 
+
+Contato:
+  barra lateral -> Contato -> Add new (como salva??)
+
+Discar contato:
+  barra lateral -> Phone -> Contato (área superior) -> clicou no contato
+
+Valor tijolo baiano x 50:
+  barra lateral -> Browser -> Busca: Tijolo Baiano preço (achou) -> Menu -> Calculadora ->  Computa
+
