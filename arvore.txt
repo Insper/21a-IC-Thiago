@@ -1,8 +1,11 @@
+(*) não é possível fazer na VM
+(**) talvez seja diferente no celular
+
 Discar:
   barra lateral -> Phone 
 
 Contato:
-  barra lateral -> Contato -> Add new (como salva??)
+  barra lateral -> Contato -> Add new -> salvar
 
 Discar contato:
   barra lateral -> Phone -> Contato (área superior) -> clicou no contato
@@ -10,3 +13,66 @@ Discar contato:
 Valor tijolo baiano x 50:
   barra lateral -> Browser -> Busca: Tijolo Baiano preço (achou) -> Menu -> Calculadora ->  Computa
 
+*Definir alarme
+
+Adicionar evento no calendário:
+  Menu -> Calendar -> "new event" (difícil de encontrar) -> selecionar data e horário (não aparece AM/PM)-> salvar
+
+*Instalar software
+
+mensagem:
+  barra lateral -> messaging -> "+" -> escrever nome do contato (a opção de procurar na lista de ocntato parece não funcionar na VM)-> escrever mensagem -> enviar
+
+**Ligar depois adicionar contato: 
+  barra lateral -> phone -> escrever número -> ligar -> clicar na opção de adicionar contato (a esquerda do número) -> "create new" -> salvar
+
+Clima:
+  barra lateral -> weather -> seta no canto inferior -> "+" -> selecionar cidade
+
+*Relógio em outros fusos
+
+Alterar brilho:
+  Canto superior direito -> "battery" (porque battery?) -> arrastar barra até brilho desejado
+
+Alterar som:
+  Canto superior direito -> "sound" -> arrastar barra até som desejado
+
+*Conectar no wifi
+
+*Concectar a caixa de som
+
+*Foto
+
+*Editar imagem
+
+*Compartilhar uma foto via mensagem
+
+Alterar o papel de parede:
+  barra lateral -> configurações -> Background -> selecionar imagem -> "set"
+
+Notificações:
+  canto superior direito -> "notifications"
+
+Configurações de privacidade:
+  barra lateral -> configurações -> Security & Privacy
+
+*Tempo de uso
+
+**favoritar app:
+  menu -> abrir app -> selecionar ele na barra lateral -> "pin shortcut"
+
+*Organizar desktop
+
+*comando de voz
+
+*manipular arquivos/pastas
+
+Desbloquar
+  apenas inserir senha quando a tela estiver boqueada
+
+*adicionar notas
+
+*manipular fotos/vídeos
+
+**Tirar screenshot:
+  Canto superior direito -> "system" -> "shut down..." -> "screenshot"

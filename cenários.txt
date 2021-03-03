@@ -27,4 +27,4 @@ Desbloquear (senha??)
 Adicionar notas
 Adicionar todo
 Manipular arquivos (fotos, vídeos, ....)
-
+Tirar screenshot
