@@ -1,0 +1,9 @@
+celular: Xiaomi Redmi Note 7
+
+O instalador fornecido pela ubports não funciona nesse celular, é necessário realizar a instalação manualmente.
+
+desbloquear o celular:
+https://forum.xda-developers.com/t/all-in-one-redmi-note-7-lavender-unlock-bootloader-flash-twrp-root-flash-rom.3890751/
+
+instalar Ubuntu Touch:
+https://forum.xda-developers.com/t/guide-gsi-ubports-how-to-flash-ubuntu-touch-gsi-in-redmi-note-7-7s.4131725/

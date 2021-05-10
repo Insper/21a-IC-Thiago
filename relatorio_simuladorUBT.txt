@@ -15,3 +15,5 @@ Dada as limitações do simulador, eguindo o usability checklist do artigo "A Us
 - Costumizabilidade;
 
 O simulador apresenta muitas limitações em relação à sua capacidade de teste. Não tem diversos apps e diversas ações são limitadas, além de alguns processos serem mais demorados do que deveriam ser;
+
+
